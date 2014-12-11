@@ -281,7 +281,7 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
 {
 	text-decoration:none;
 	color:#fff;
-	display:block
+	display:inline
 }
 
 .nav a:hover, a:focus
