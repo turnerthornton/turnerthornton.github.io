@@ -1,0 +1,421 @@
+/*
+ *                        ___
+ *                       /\_ \
+ *  _____     ___     ___\//\ \      __
+ * /\ '__`\  / __`\  / __`\\ \ \   /'__`\
+ * \ \ \_\ \/\ \_\ \/\ \_\ \\_\ \_/\  __/
+ *  \ \ ,__/\ \____/\ \____//\____\ \____\
+ *   \ \ \/  \/___/  \/___/ \/____/\/____/
+ *    \ \_\
+ *     \/_/
+ *
+ * Designed, built, and released under MIT license by @mdo. Learn more at
+ * https://github.com/poole/poole.
+ */
+
+
+/*
+ * Contents
+ *
+ * Body resets
+ * Custom type
+ * Messages
+ * Container
+ * Masthead
+ * Posts and pages
+ * Pagination
+ * Reverse layout
+ * Themes
+ */
+
+
+html,body
+{
+	margin:0;
+	padding:0
+}
+
+body
+{   
+	font-family:"Merriweather",Georgia,Serif;
+	font-size:1.2em;
+	font-weight:300;
+	line-height:1.6;
+	color:#222
+}
+
+a
+{
+	color:#cd3829;
+	text-decoration:none
+}
+
+a:hover,a:focus
+{
+	text-decoration:none
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-family:"Lato",Helvetica,Arial,sans-serif;
+	font-weight:400;
+	margin-top:1em;
+	margin-bottom:.5em;
+	line-height:1.6;
+	color:#222;
+	text-rendering:optimizeLegibility
+}
+
+h1
+{
+	font-size:1.8em
+}
+
+h2
+{
+	font-size:1.6em
+}
+
+h3
+{
+	font-size:1.4em
+}
+
+h4,h5,h6
+{
+	font-size:1.2em
+}
+
+h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover
+{
+	color:#cd3829
+}
+
+p
+{
+	margin-top:0;
+	margin-bottom:1em
+}
+
+p a:hover
+{
+	text-decoration:underline
+}
+
+strong
+{
+	color:#222
+}
+
+ul,ol,dl
+{
+	margin-top:0;
+	margin-bottom:1em
+}
+
+hr
+{
+	position:relative;
+	margin:1.5em 0;
+	border:0;
+	border-top:1px solid #eee;
+	border-bottom:1px solid #fff
+}
+
+code,pre
+{
+	font-family:Menlo,Monaco,"Courier New",monospace
+}
+
+code
+{
+	padding:.25em .5em;
+	font-size:.8em;
+	color:#cd3839;
+	background-color:#eee;
+	border-radius:3px
+}
+
+pre
+{
+	display:block;
+	margin-top:0;
+	margin-bottom:1em;
+	padding:1em;
+	font-size:.8em;
+	line-height:1.6;
+	white-space:pre;
+	white-space:pre-wrap;
+	word-break:break-all;
+	word-wrap:break-word;
+	background-color:#eee
+}
+
+pre code
+{
+	padding:0;
+	font-size:.8em;
+	color:inherit;
+	background-color:transparent
+}
+
+blockquote
+{
+	padding:.5em 1em;
+	margin:.8em 0;
+	color:#888;
+	border-left:.25em solid #eee;
+	line-height:1.6
+}
+
+blockquote p:last-child
+{
+	margin-bottom:0
+}
+
+img
+{
+	display:block;
+	max-width:100%;
+	margin:0 0 1em;
+	border-radius:0
+}
+
+table
+{
+	margin-bottom:1em;
+	border:1px solid #eee;
+	border-collapse:collapse
+}
+
+td,th
+{
+	padding:.25em .5em;
+	border:1px solid #eee
+}
+
+tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
+{
+	background-color:#eee
+}
+
+.message
+{
+	margin-bottom:1em;
+	padding:1em;
+	color:#888;
+	background-color:#eee
+}
+
+.container
+{
+	max-width:36em;
+	padding-left:1em;
+	padding-right:1em;
+	margin-left:auto;
+	margin-right:auto
+}
+
+.masthead
+{
+	padding-top:2em;
+	padding-bottom:2em;
+	margin-bottom:3em;
+	padding-right:2em
+}
+
+.masthead-title
+{
+	margin-top:0;
+	margin-bottom:.5em;
+	color:#222;
+	font-family:"Lato",Helvetica,Arial,sans-serif;
+	font-size:1.6em;
+	font-weight:400;
+	line-height:1.6;
+	text-rendering:optimizeLegibility
+}
+
+.masthead-title a
+{
+	font-size:1.6em;
+	font-weight:400;
+	color:#222
+}
+
+.masthead-title a:hover
+{
+	font-size:1.6em;
+	color:#cd3829
+}
+
+.masthead-title small a
+{
+	font-size:1em;
+	font-weight:400;
+	color:#bbb;
+	letter-spacing:0
+}
+
+.masthead-title small a:hover
+{
+	font-size:1em;
+	color:#cd3829;
+	letter-spacing:0
+}
+
+.nav ul
+{
+	list-style:none;
+	padding:0;
+	margin:0;
+	float:left
+}
+
+.nav li
+{
+	padding-right:1em
+}
+
+.nav a
+{
+	text-decoration:none;
+	color:#fff;
+	display:inline
+}
+
+.nav a:hover, a:focus
+{
+	color:
+}
+
+.page,.post
+{
+	padding-top: 2em;
+	margin-bottom:6em
+}
+
+.page-title,.post-title,.post-title a
+{
+	color:#222
+}
+
+.page-title,.post-title
+{
+	margin-top:0
+}
+
+.post h1 {
+	font-size: 1.4em;
+}
+
+.post h2 {
+	font-size: 1.2em;
+}
+
+.post h3 {
+	font-size: 1em;
+}
+
+.post h4,.post h5, .post h6 {
+	font-size: .8em;
+}
+
+.post-meta
+{
+	display:block;
+	margin-top:-.5em;
+	margin-bottom:1em;
+	font-weight:400;
+	color:#555
+}
+
+.post-meta a:hover
+{
+	text-decoration:underline
+}
+
+.post-content a:hover
+{
+	text-decoration:underline;
+	padding-bottom:2px
+}
+
+.search
+{
+	padding-bottom:0;
+	margin:auto;
+	display:block;
+	text-align:center
+}
+
+.search li
+{
+	list-style:none;
+	margin:0;
+	padding-left:1em;
+	text-indent:-1em
+}
+
+.search time
+{
+	margin-left:0;
+	font-size:1em;
+	color:#bbb
+}
+
+#search
+{
+	font-family:"Lato",Helvetica,Arial,sans-serif;
+	width:100%;
+	max-width:250px;
+	margin-left:auto;
+	margin-right:auto
+}
+
+#search input
+{
+	width:100%;
+	font-family:"Lato",Helvetica,Arial,sans-serif;
+	text-align:center;
+	font-size:.8em;
+	border:1px solid #eee;
+	padding:6px 8%;
+	color:#bbb;
+	-webkit-border-radius:8px;
+	-moz-border-radius:8px;
+	border-radius:4px
+}
+
+#search input:focus
+{
+	outline:none
+}
+
+.about img {
+	width:128px;
+	height:128px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+.footer
+{
+	font-family:"Lato",Helvetica,Arial,sans-serif;
+	font-size:.8em;
+	line-height:1.6;
+	text-align:center
+}
+
+.footnotes
+{
+	padding-top:1em;
+	border-top:1px solid #eee
+}
+
+.footnotes li
+{
+	color:#888;
+	font-size:.8em
+}

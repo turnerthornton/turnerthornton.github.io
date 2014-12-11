@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         kramdown
+redcarpet:
+  extensions: ["tables"]
+
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Clay Carson
+tagline:          ''
+# [remove comment] url:              http://claycarson.net
+# [remove comment] shorturl:         claycarson.net
+
+author:
+  name:           'Clay Carson'
+  url:            https://twitter.com/claycarson
+
+paginate:         15
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           github.com/claycarson/claycarson.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  Archive: '/archive/'
+  Contact: '/contact/'
+  Feed: '/atom.xml'
+
