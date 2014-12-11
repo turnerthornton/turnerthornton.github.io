@@ -3,7 +3,7 @@ layout: post
 title: "Test Category Post"
 date: December 11, 2014 14:16:45
 tags:
-category
+category:
 link:
 ---
 
