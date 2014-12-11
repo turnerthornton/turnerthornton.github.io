@@ -419,3 +419,18 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
 	color:#888;
 	font-size:.8em
 }
+
+.photo img{
+width:600px;
+z-index: 0;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top:50px;
+margin-bottom:50px;
+background-color: #fff;
+padding: 20px;
+border: 1px solid #444;
+-webkit-box-shadow: 0px 8px 12px #222;
+-moz-box-shadow: 0px 8px 12px #222;
+}

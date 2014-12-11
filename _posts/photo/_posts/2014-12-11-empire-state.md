@@ -7,5 +7,6 @@ category:
 - photo
 link:
 ---
-
+<div class="photo">
 ![Empire State](http://photo.claycarson.net/photos/empire_state.jpg)
+</div>
