@@ -3,23 +3,23 @@ layout: page
 title: Archive
 ---
 
-# All Posts
+<!--# All Posts
 
 {% for post in site.posts %}
   * {{ post.date | date: "%B %-d, %Y" }}: [ {{ post.title }} ]({{ post.url }})
-{% endfor %}
+{% endfor %}-->
 
-## Articles
+### Articles
 {% for post in site.categories['article'] %}
   * {{ post.date | date: "%B %-d, %Y" }}: [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
 
-## Linked List
+### Links
 {% for post in site.categories['link'] %}
   * {{ post.date | date: "%B %-d, %Y" }}: [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
 
-## Photography
+### Photos
 {% for post in site.categories['photo'] %}
   * {{ post.date | date: "%B %-d, %Y" }}: [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
