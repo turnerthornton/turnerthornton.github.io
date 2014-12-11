@@ -19,3 +19,8 @@ title: Archive
   * {{ post.date | date: "%B %-d, %Y" }}: [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
 
+## Photography
+{% for post in site.categories['photo'] %}
+  * {{ post.date | date: "%B %-d, %Y" }}: [ {{ post.title }} ]({{ post.url }})
+{% endfor %}
+
