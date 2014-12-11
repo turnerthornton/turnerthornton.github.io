@@ -8,5 +8,5 @@ category:
 link:
 ---
 <div class="photo">
-![Empire State](http://photo.claycarson.net/photos/empire_state.jpg)
+<img src="http://photo.claycarson.net/photos/empire_state.jpg)">
 </div>
