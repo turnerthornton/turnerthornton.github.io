@@ -419,3 +419,55 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
 	color:#888;
 	font-size:.8em
 }
+
+.page,.photo
+{
+	padding-top: 2em;
+	margin-bottom:6em
+}
+
+.page-title,.photo-title,.photo-title a
+{
+	color:#222
+}
+
+.page-title,.photo-title
+{
+	margin-top:0
+}
+
+.photo h1 {
+	font-size: 1.4em;
+}
+
+.photo h2 {
+	font-size: 1.2em;
+}
+
+.photo h3 {
+	font-size: 1em;
+}
+
+.photo h4,.photo h5, .photo h6 {
+	font-size: .8em;
+}
+
+.photo-meta
+{
+	display:block;
+	margin-top:-.5em;
+	margin-bottom:1em;
+	font-weight:400;
+	color:#555
+}
+
+.photo-meta a:hover
+{
+	text-decoration:underline
+}
+
+.photo-content a:hover
+{
+	text-decoration:underline;
+	padding-bottom:2px
+}
