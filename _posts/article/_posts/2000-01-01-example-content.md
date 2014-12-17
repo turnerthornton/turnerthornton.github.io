@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Example Content"
-date: November 7, 2014 17:13:43
+date: January 1, 2000 17:13:43
 tags:
 category:
 - article
