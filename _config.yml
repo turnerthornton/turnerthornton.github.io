@@ -18,7 +18,7 @@ author:
   name:           'Clay Carson'
   url:            https://twitter.com/claycarson
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 version:          1.0.0
