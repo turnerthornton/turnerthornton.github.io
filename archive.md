@@ -16,5 +16,5 @@ title: Archive
 
 ### Links
 {% for post in site.categories['link'] %}
-  * {{ post.date | date: "%B %-d, %Y" }}: [ {{ post.title }} ]({{ post.url }})<span class="link-arrow"></span></a>&rarr;</span>
-{% endfor %}
+  * {{ post.date | date: "%B %-d, %Y" }}: [ {{ post.title }} ]({{ post.url }})
+{% endfor %}<span class="link-arrow"></span></a>&rarr;</span>
