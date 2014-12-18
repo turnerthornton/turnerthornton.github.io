@@ -14,8 +14,8 @@ I wanted to create a little walkthrough of how I am using Clips to publish to my
 
 ##Follow these simple steps to setup a template.
 
-1. In Clips, go to Settings > Copy Templates > Add new template
-2. Paste in the text below and add a title
+1. In Clips, go to Settings > Copy Templates > Add new .template
+2. Paste in the text below and add a title.
 
 		---
 		layout: post
