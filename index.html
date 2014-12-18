@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="post">
-  {% for post in site.posts %}
+	  {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title"><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %} <span class="link-arrow">&#8594;</span>{% endif %}</h1>
     
