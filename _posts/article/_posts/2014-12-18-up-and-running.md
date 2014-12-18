@@ -1,21 +1,19 @@
 ---
 layout: draft
 title: "Running on Jekyll and GitHub"
-date: November 9, 2014 12:38:14
+date: December 18, 2014 12:23:14
 tags:
 category:
 - Article
 link:
 ---
 
-Alright, looks like we are up and running with the new site. After hearing discussions on [Accidental Tech Podcast](http://atp.fm/) and wanting to have a place to share mostly links with some commentary, I decided to create a static blog using [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
-
-I wanted to list the tools, links, and tutorials I used and a couple of helpful links I found along the way.
+I wanted to list the tools, links, and tutorials I used to get this site up and running. and a couple of helpful links I found along the way.
 
 ## Required Tools
-- [Jekyll](http://jekyllrb.com/)
+- Jekyll[^1]
 
- > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+[^1]: Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
  
 - [GitHub Pages](https://pages.github.com/)
 - [Poole](http://getpoole.com/)
@@ -24,7 +22,6 @@ I wanted to list the tools, links, and tutorials I used and a couple of helpful 
 
 ## Resources
 - [Smashing Magazine Tutorial](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
-- [Duck Duck Go Search and Styling](http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/)
 
 ## Local Tools
 - [GitHub Mac 2](https://mac.github.com/)
@@ -58,6 +55,6 @@ Footnotes are cool and eliminate afterthoughts or clarification within parenthes
 
 Simple html list with some css style.
 
-**4. Search**
+**4. Archive**
 
-I wanted people to be able to search the site for whatever they were looking for. I used [Duck Duck Go's](https://duckduckgo.com/search_box) search box and used some of these [styling tips](http://hardik.org/2013/06/01/stylising-duckduckgo-site-search/) to match the look of my site.	
+Having an index of all my posts was necessary. I'd like to eventually have a regular ordered list with differentiating post types instead of separating Articles and Links.	

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clips for Mobile Publishing on iOS"
-date: November 19, 2014 10:31:17
+date: December 18, 2014 12:25:17
 tags:
 category:
 - article
