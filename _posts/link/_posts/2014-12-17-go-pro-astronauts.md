@@ -1,9 +1,10 @@
 ---
-layout: draft
+layout: post
 title: "ISS Astronauts Place Go Pro in a Bubble"
-date: December 17, 2014 11:40:04
+date: December 18, 2014 12:27:04
 tags:
 category:
+- link
 link: http://www.youtube.com/watch?v=9ZEdApyi9Vw
 ---
 
