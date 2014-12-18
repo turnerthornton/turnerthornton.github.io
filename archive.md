@@ -3,11 +3,9 @@ layout: page
 title: Archive
 ---
 
-<!--# All Posts
 
-{% for post in site.posts %}
-  * {{ post.date | date: "%B %-d, %Y" }}: [ {{ post.title }} ]({{ post.url }})
-{% endfor %}-->
+
+
 
 ### Articles
 {% for post in site.categories['article'] %}
@@ -18,3 +16,12 @@ title: Archive
 {% for post in site.categories['link'] %}
   * {{ post.date | date: "%B %-d, %Y" }}: [ {{ post.title }} ]({{ post.url }}) <span class="link-arrow">&rarr;</span>
 {% endfor %}
+
+
+### All Posts
+
+  {% if site.posts %}
+    <h1 class="post-title"><a href="{{ page.link }}">{{ page.title }} <span class="link-arrow"></span></a>&rarr;</h1>
+  {% else %}
+    <h1 class="post-title">{{ page.title }}</h1>
+  {% endif %}
