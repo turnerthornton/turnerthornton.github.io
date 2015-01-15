@@ -32,4 +32,5 @@ pages_list:
   Archive: '/archive/'
   Contact: '/contact/'
   Feed: '/atom.xml'
+  Wishlist: '/wishlist/'
 
