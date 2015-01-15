@@ -1,3 +1,8 @@
+---
+layout: page
+title: Wishlist
+---
+
 [GR 1](http://www.goruck.com/en/gr1#.VLgZs4oleQM)
 
 ![GR 1 - Image](http://www.goruck.com/content/images/thumbs/0010587_black.jpeg =200x)
