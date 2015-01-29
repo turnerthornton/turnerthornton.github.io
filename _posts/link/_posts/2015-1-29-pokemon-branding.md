@@ -8,4 +8,4 @@ category:
 link: http://pictogram.agency/pokemonbranding/
 ---
 
-> Branding and logo design for companies named after Pokemon.
+Branding and logo design for companies named after Pokemon.
