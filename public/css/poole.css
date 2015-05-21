@@ -251,7 +251,7 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
 
 .masthead-title small a
 {
-	font-size:.5em;
+	font-size:.8em;
 	font-weight:400;
 	color:#bbb;
 	letter-spacing:0
@@ -259,7 +259,7 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
 
 .masthead-title small a:hover
 {
-	font-size:.5em;
+	font-size:.8em;
 	color:#cd3829;
 	letter-spacing:0
 }
