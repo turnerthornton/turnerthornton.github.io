@@ -37,7 +37,6 @@ html,body
 
 body
 {   
-	/*font-family:"Merriweather",Georgia,Serif;*/
 	font-family: "Roboto Slab", Georgia, Times, serif;
 	font-size:1.2em;
 	font-weight:300;
@@ -58,7 +57,6 @@ a:hover,a:focus
 
 h1,h2,h3,h4,h5,h6
 {
-	/*font-family: "Roboto Slab", Georgia, Times, serif;*/
 	font-family: "Roboto Slab", Georgia, Times, serif;
 	font-weight:400;
 	margin-top:1em;
