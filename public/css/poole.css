@@ -28,6 +28,7 @@
  * Themes
  */
 
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700);
 
 html,body
 {
@@ -327,7 +328,7 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
 	margin-top:-.5em;
 	margin-bottom:1em;
 	font-weight:400;
-	color:#777
+	color:#555
 }
 
 .post-meta a:hover
