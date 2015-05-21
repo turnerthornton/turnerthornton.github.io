@@ -163,7 +163,7 @@ pre code
 blockquote
 {
 	padding:.5em 1em;
-	margin:.8em 0;
+	margin:.8em .5em;
 	color:#999;
 	border-left:.1em solid #eee;
 	line-height:1.6
