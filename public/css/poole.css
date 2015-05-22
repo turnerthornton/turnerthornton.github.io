@@ -161,7 +161,7 @@ pre code
 blockquote
 {
 	padding:.5em 0em;
-	margin:.8em .5em;
+	margin:.8em 2em;
 	color:#999;
 	border-left:.1em solid #eee;
 	line-height:1.6
@@ -266,7 +266,7 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
 .nav ul
 {
 	list-style:none;
-	position:absolute;
+	position: fixed;
 	padding:0;
 	margin:0;
 	float:left
