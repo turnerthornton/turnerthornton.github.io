@@ -33,8 +33,5 @@ pages_list:
   Contact: '/contact/'
   Feed: '/atom.xml'
   
-# Allow URL Redirects: 
 
-  gems:
-    - jekyll-redirect-from
 
