@@ -19,6 +19,7 @@ author:
   url:            https://twitter.com/claycarson
 
 paginate:         10
+paginate_path: "/archives/page/:num"
 
 # Custom vars
 version:          1.0.0
