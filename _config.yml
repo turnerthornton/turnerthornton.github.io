@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title:            Clay Carson
 tagline:          ''
-# [remove comment] url:              http://claycarson.net
-# [remove comment] shorturl:         claycarson.net
+# url:              http://claycarson.net
+# shorturl:         claycarson.net
 
 author:
   name:           'Clay Carson'
@@ -32,4 +32,9 @@ pages_list:
   Archive: '/archive/'
   Contact: '/contact/'
   Feed: '/atom.xml'
+  
+# Allow URL Redirects: 
+
+  gems:
+    - jekyll-redirect-from
 
