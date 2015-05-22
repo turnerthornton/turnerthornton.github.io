@@ -266,7 +266,6 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
 .nav ul
 {
 	list-style:none;
-	position: fixed;
 	padding:0;
 	margin:0;
 	float:left
