@@ -5,7 +5,7 @@ title: About
 
 <div class="about">
 
-<img src="https://dl-web.dropbox.com/get/website%20assets/personal/bg-512.jpg?_subject_uid=102493&w=AAASc41eRx6av0lSp_ZWr67xufQpzHmfvQ-q3cghPdKJNQ" alt="Avatar">
+<img src="https://dl.dropboxusercontent.com/u/102493/Website%20Assets/personal/bg-512.jpg" alt="Avatar">
 
 </div>
 
