@@ -45,7 +45,7 @@ body
 
 a
 {
-	color:#cd3829;
+	color:#68b9ff;
 	text-decoration:none
 }
 
@@ -87,7 +87,7 @@ h4,h5,h6
 
 h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover
 {
-	color:#cd3829
+	color:#68b9ff;
 }
 
 p
@@ -245,7 +245,7 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
 .masthead-title a:hover
 {
 	font-size:1.6em;
-	color:#cd3829
+	color:#68b9ff;
 }
 
 .masthead-title small a
@@ -259,7 +259,7 @@ tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th
 .masthead-title small a:hover
 {
 	font-size:.8em;
-	color:#cd3829;
+	color:#68b9ff;
 	letter-spacing:0
 }
 
