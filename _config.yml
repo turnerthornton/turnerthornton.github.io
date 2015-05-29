@@ -9,14 +9,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Clay Carson
+title:            Leigh Hires Turner
 tagline:          ''
-# url:              http://claycarson.net
-# shorturl:         claycarson.net
+# url:              http://leighhiresturner.com
+# shorturl:         leighhiresturner.com
 
 author:
   name:           'Clay Carson'
-  url:            https://twitter.com/claycarson
+  url:            https://twitter.com/turnerthornton
 
 paginate:         10
 paginate_path: "/archives/page/:num"
@@ -25,14 +25,13 @@ paginate_path: "/archives/page/:num"
 version:          1.0.0
 
 github:
-  repo:           github.com/claycarson/claycarson.github.io
+  repo:           github.com/turnerthornton/turnerthornton.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
-  About: '/about/'
-  Archive: '/archive/'
-  Contact: '/contact/'
-  Feed: '/atom.xml'
+  Home: '/index.html/'
+  Cover Letter: '/cover-letter/'
+  Resume: '/resume/'
   
 
 
