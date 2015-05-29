@@ -54,4 +54,4 @@ Medium between corporate sponsors &#038; team regarding ballpark signage, yearbo
 <h2>REFERENCE</h2>
 <p><strong>Jay Miller, President, Round Rock Express:</strong> (512) 750–7069<br />
 <strong>Christian Dennie, Texas A&#038;M University School of Law:</strong> (817) 731–4500</p>
-<p><a href="http://leighhiresturner.com/assets/j-turner-thornton-resume.pdf">Download a PDF Version</a></p>
+<p><a href="https://dl.dropboxusercontent.com/u/102493/Website%20Assets/leighhiresturner/j-turner-thornton-resume.pdf">Download a PDF Version</a></p>
