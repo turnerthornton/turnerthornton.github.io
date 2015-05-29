@@ -15,6 +15,6 @@ Newport Beach, CA 92663</p>
 <p>I would welcome the opportunity to speak with you about joining your firm in any capacity that may be available. For your information, I have completed my NFLPA Agent Certification application and plan on sitting for the exam in July 2015. Again, I would relish the chance to learn from you while contributing to the goals and resurgence of Steinberg Sports. You are welcome to contact me at any time that is convenient for you.</p>
 <p>Thank you again, and I look forward to speaking with you soon.</p>
 <p>Respectfully,</p>
-<p><img src="http://leighhiresturner.com/assets/signature-nobg.png" style="width:300px"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/102493/Website%20Assets/leighhiresturner/signature-nobg.png" style="width:300px"></p>
 <p>J. Turner Thornton</p>
-<p><a href="http://leighhiresturner.com/assets/cover-letter-steinberg-sports.pdf">Download a PDF Version</a></p>
+<p><a href="https://dl.dropboxusercontent.com/u/102493/Website%20Assets/leighhiresturner/cover-letter-steinberg-sports.pdf">Download a PDF Version</a></p>
